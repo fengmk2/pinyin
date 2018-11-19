@@ -1,5 +1,5 @@
 {
-  "name": "pinyin",
+  "name": "pinyin-no-jieba",
   "version": "2.8.3",
   "description": "汉语拼音转换工具。",
   "files": [
@@ -39,9 +39,6 @@
   "dependencies": {
     "commander": "~1.1.1",
     "object-assign": "^4.0.1"
-  },
-  "optionalDependencies": {
-    "nodejieba": "^2.2.1"
   },
   "devDependencies": {
     "benchmark": "~1.0.0",

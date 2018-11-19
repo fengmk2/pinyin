@@ -29,6 +29,10 @@
 
 ---
 
+## Forked 说明
+
+跟 pinyin master 版本保持同步，只是去掉了 nodejieba 的依赖。所以 segment 分词功能无法实现。
+
 ## 特性
 
 * 根据词组智能匹配最正确的拼音。
